@@ -4,6 +4,9 @@ Usage:
 This will place the cropped image in path/to/image.crop.png.
 For details on the methodology, see
 http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html
+
+Creator: Dan Vanderkam (https://github.com/danvk)
+tinkered on by Baraka Kombe-Jarvis (https://github.com/weqlix)
 '''
 
 import sys
